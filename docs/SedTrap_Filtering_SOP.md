@@ -39,6 +39,8 @@ b.	We want enough sample on the filter to be measurable, but not so much that th
 
 **12.**	Rinse the filter column with DI water and start filtering another sample, or just rinse the column with DI water if you don’t have any more samples to filter. Rinse the filtrate flask when you are all done.
 
-**13.**	Place the samples in a drying oven at <40 degrees C for ~24 hrs.
+**13.**	**Measure the amount of water remaining in the sample.**
 
-**14.** After the sample is completely dried, weigh the filter. **Record the filter mass on the filtering log sheet.**
+**14.** Place the samples in a drying oven at <40 degrees C for ~24 hrs.
+
+**15.** After the sample is completely dried, weigh the filter. **Record the filter mass on the filtering log sheet.**

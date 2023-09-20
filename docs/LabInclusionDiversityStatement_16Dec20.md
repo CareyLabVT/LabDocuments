@@ -1,16 +1,16 @@
 # Reservoir Group Inclusion and Diversity Statement
 
-We are committed to providing a safe, inclusive, and harassment-free experience to everyone. This statement was developed with the goal of affirming our shared values of diversity, equity, and inclusion (DEI) and is grounded in our group’s commitment to everyone’s personal and scientific growth and development. This is a living document that we will revisit and update annually at the beginning of the fall semester.
+We are committed to providing a safe, inclusive, accessible, and harassment-free experience to everyone. This statement was developed with the goal of affirming our shared values of diversity, equity, inclusion, and accessibility and is grounded in our group’s commitment to everyone’s personal and scientific growth and development. This is a living document that we will revisit and update annually at the beginning of the fall semester.
 
-Safe, inclusive, and harassment-free environments don’t just happen: they are created by both 1) day-to-day interactions we all have with each other and 2) ensuring that DEI is embedded in the group’s longer-term strategic decisions. It is the responsibility of all members of our group to work together to create and maintain a safe, inclusive, harassment-free environment for all.
+Safe, inclusive, accessible, and harassment-free environments don’t just happen: they are created by both 1) day-to-day interactions we all have with each other and 2) ensuring that DEI is embedded in the group’s longer-term strategic decisions. It is the responsibility of all members of our group to work together to create and maintain a safe, inclusive, accessible, and harassment-free environment for all.
 
 ## Action Plan
 
 We are actively working to promote greater inclusivity in our group, the communities in which we live, and freshwater science as a discipline by:
 
-* Holding each other accountable to a group code of conduct: we co-created the Reservoir Group code (to be updated by the group annually) to ensure everyone has a safe, inclusive, and harassment-free experience in our community
+* Holding each other accountable to a group code of conduct: we co-created the Reservoir Group code (updated by the group annually) to ensure everyone has a safe, inclusive, accessible, and harassment-free experience in our community
 
-* Leading regular conversations on DEI topics: we plan for at least 1 discussion per semester in our Reservoir Group’s weekly meetings
+* Leading regular conversations on diversity, equity, inclusion, and accessibility topics: we plan for at least 1 discussion per semester in our Reservoir Group’s weekly meetings
 
 * Developing anti-racist frameworks for: our community interactions (via our code of conduct); recruiting and mentoring students; and safely conducting fieldwork
 

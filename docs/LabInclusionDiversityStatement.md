@@ -6,7 +6,7 @@ Safe, inclusive, accessible, and harassment-free environments don’t just happe
 
 ## Action Plan
 
-We are actively working to promote greater inclusivity in our group, the communities in which we live, and freshwater science as a discipline by:
+We are actively working to promote greater inclusivity in our group, our communities, and our disciplines by:
 
 * Holding each other accountable to a group code of conduct: we co-created the Reservoir Group code (updated by the group annually) to ensure everyone has a safe, inclusive, accessible, and harassment-free experience in our community
 

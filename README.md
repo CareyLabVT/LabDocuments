@@ -2,7 +2,7 @@
 
 ### General Lab Documents 
 * [Lab Authorship Guidelines](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/Authorship_Guidelines.md)
-* [Lab Code of Conduct](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/LabCodeOfConduct_25Sep20.md)
+* [Lab Code of Conduct](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/LabCodeOfConduct.md)
 * [Lab Diversity & Inclusion Statement](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/LabInclusionDiversityStatement_16Dec20.md)
 
 ### Field Supplies Checklists   

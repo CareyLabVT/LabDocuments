@@ -3,7 +3,7 @@
 ### General Lab Documents 
 * [Lab Authorship Guidelines](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/Authorship_Guidelines.md)
 * [Lab Code of Conduct](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/LabCodeOfConduct.md)
-* [Lab Diversity & Inclusion Statement](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/LabInclusionDiversityStatement_16Dec20.md)
+* [Lab Diversity & Inclusion Statement](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/LabInclusionDiversityStatement.md)
 
 ### Field Supplies Checklists   
 * [FCR General- **Mondays**](https://github.com/CareyLabVT/LabDocuments/blob/master/docs/FCR_General_Field_Checklist.md)

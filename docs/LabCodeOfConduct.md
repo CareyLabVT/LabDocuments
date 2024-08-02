@@ -5,7 +5,7 @@ We are committed to providing a safe, inclusive, accessible, and harassment-free
 
 ## Philosophy and motivation
 
-The philosophy of the Reservoir Group is to enable and support good science by creating a harassment and discrimination-free experience for everyone. We are committed to supporting and training a diverse scientific workforce; our diversity is a strength and having multiple perspectives and backgrounds inherently makes our science better. 
+The philosophy of the Reservoir Group is to enable and support good science by creating a harassment and discrimination-free experience for everyone. We are committed to supporting and training a diverse scientific community; our diversity is a strength and having multiple perspectives and backgrounds inherently makes our science better. 
 
 Safe, inclusive, accessible, and harassment-free environments don’t just happen: they are created by the day-to-day interactions we all have with each other. Thus, it is the responsibility of all members of our group to help create and maintain a safe, inclusive, accessible, and harassment-free environment so that we may all benefit from it. Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), country or region of origin, political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance, or body size will not be tolerated. We do not tolerate harassment or discrimination by and/or of members of our community in any form.
 
@@ -18,15 +18,13 @@ Safe, inclusive, accessible, and harassment-free environments don’t just happe
 
 * The only way that we can have challenging discussions on challenging topics is to make the lab a safe space for these conversations to happen. We start with the foundation that everyone in Reservoir Group is inherently invested in supporting all group members’ growth. To grow, it is important for everyone to be able to share their perspectives, and for others to provide feedback.
 
-* Enter the conversation knowing we will inherently make mistakes, and that is okay so long as we learn from them. When/if a problematic statement or action is identified, take a growth mindset; try to avoid defensiveness and conflating the mistake with reflections on you as a person. 
-
 * Be aware that your actions can be hurtful to others or contribute to a negative environment even if you have no intent of harm. Listen when someone voices concern, reflect, and offer a genuine apology. Commit to learning and doing better.
 
-* Harassment and sexist, racist, discriminatory, or exclusionary language, imagery, jokes, and microaggressions are never appropriate.
+* When/if a problematic statement or action is identified, take a growth mindset. We all make mistakes; try to avoid defensiveness and conflating the mistake with reflections on you as a person. 
 
-* All communication - online and in person - should be appropriate for a diverse audience, including people of many different backgrounds. 
+* Harassment and sexist, racist, discriminatory, or exclusionary language, imagery, jokes, and micro-aggressions are never appropriate.
 
-All group members are expected to abide by these policies at all work events, such as conferences, workshops, etc., as well as lab-related social activities.
+All group members are expected to abide by these policies on and off-campus (e.g., conferences, fieldwork, lab-related social activities), and in all online and in-person communication and interactions.
 
 ## Enforcement and Reporting Mechanisms
 

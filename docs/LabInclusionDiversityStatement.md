@@ -10,17 +10,17 @@ We are actively working to promote greater inclusivity in our group, our communi
 
 * Holding each other accountable to a group code of conduct: we co-created the Reservoir Group code (updated by the group annually) to ensure everyone has a safe, inclusive, accessible, and harassment-free experience in our community
 
-* Leading regular conversations on diversity, equity, inclusion, and accessibility topics: we plan for at least 1 discussion per semester in our Reservoir Group’s weekly meetings
+* Leading regular conversations on diversity, equity, inclusion, and accessibility topics: we plan for at least one discussion per semester in our Reservoir Group’s weekly meetings
 
 * Developing anti-racist frameworks for: our community interactions (via our code of conduct); recruiting and mentoring students; and safely conducting fieldwork
 
-* Conducting translational science: we work closely with managers and community members to co-develop scientific studies and conduct research to ensure that our findings are usable and accessible to the communities we live in
+* Conducting translational science: we work closely with managers and community members to co-develop scientific studies and conduct research to ensure that our findings are usable and accessible to the communities we live and work in
 
 * Communicating our science: we partner with educators, outreach coordinators, and managers to translate our research, solicit feedback, and ensure that our findings are broadly shared and accessible to the public
 
-* Promoting best practices of open science: to enable greater participation in freshwater science, we use and develop open-source software, publish all of our data shortly after collection, and are constantly evolving lab practices to ensure accessibility and reproducibility of our data and analyses
+* Promoting innovative practices of open science: to enable greater participation in freshwater science, we use and develop open-source software, publish all of our data shortly after collection, and are constantly evolving our practices to ensure accessibility and reproducibility of our data and analyses
 
-* Teaching as research: we develop, assess, and disseminate hands-on, active learning teaching materials, which reduce the achievement gap of students in STEM. We use assessment data to constantly revise our teaching modules and methods to improve their accessibility for a wide range of students
+* Creating educational modules: we develop, assess, and disseminate hands-on, active learning teaching materials, which reduce the achievement gap of students in STEM. We use assessment data to constantly revise our teaching modules and methods to improve their accessibility for a wide range of students
 
 
 ## Attribution

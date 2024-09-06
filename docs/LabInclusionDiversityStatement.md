@@ -10,7 +10,7 @@ We are actively working to promote greater inclusivity in our group, our communi
 
 * Holding each other accountable to a group code of conduct: we co-created the Reservoir Group code (updated by the group annually) to ensure everyone has a safe, inclusive, accessible, and harassment-free experience in our community
 
-* Leading regular conversations on diversity, equity, inclusion, and accessibility topics: we plan for at least one discussion per semester in our Reservoir Group’s weekly meetings
+* Leading regular conversations on diversity, equity, inclusion, and accessibility topics: we have time dedicated at the beginning of each weekly Reservoir Group meeting to discuss these topics and resources, and at least one full meeting per semester focused on diversity, equity, inclusion, and/or accessibility 
 
 * Developing anti-racist frameworks for: our community interactions (via our code of conduct); recruiting and mentoring students; and safely conducting fieldwork
 

@@ -20,7 +20,7 @@ Safe, inclusive, accessible, and harassment-free environments don’t just happe
 
 * Be aware that your actions can be hurtful to others or contribute to a negative environment even if you have no intent of harm. Listen when someone voices concern, reflect, and offer a genuine apology. Commit to learning and doing better.
 
-* When/if a problematic statement or action is identified, take a growth mindset. We all make mistakes; try to avoid defensiveness and conflating the mistake with reflections on you as a person. 
+* When/if a problematic statement or action is identified, take a growth mindset. We all make mistakes; try to avoid defensiveness and conflating the mistake with reflections on you as a person. We encourage group members to educate themselves on how to avoid harmful language and behavior (e.g., exclusionary language).
 
 * Harassment and sexist, racist, discriminatory, or exclusionary language, imagery, jokes, and micro-aggressions are never appropriate.
 
@@ -30,12 +30,12 @@ All group members are expected to abide by these policies on and off-campus (e.g
 
 Unacceptable behavior includes, but is not limited to, offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 
-Anyone asked to stop any harassing or discriminatory behavior is expected to comply immediately. If inappropriate behavior persists, the issue will be escalated according to VT policies; for more information, please see the VT Office for Equity and Accessibility (https://oea.vt.edu) and VT Office of Inclusion and Diversity (https://www.inclusive.vt.edu).
+Anyone asked to stop any harassing or discriminatory behavior is expected to comply immediately. If inappropriate behavior persists, the issue will be escalated following VT policies; for current guidelines, please see the VT Office for Equity and Accessibility (https://oea.vt.edu) and VT Office of Inclusion and Diversity (https://www.inclusive.vt.edu).
 
 If you are being harassed, notice that someone else is being harassed, or have any concerns about potential violations, please contact Cayelan or Maddy immediately. As all faculty, staff, and graduate students are mandatory reporters, harassment violations of any kind have to be reported to the university’s Title IX office, which Cayelan/Maddy can help you navigate. The Title IX office can also refer you to other resources on campus if your concerns do not fit with their purview (e.g., the SAFE at VT program, https://safe.vt.edu). If Cayelan or Maddy is the cause of your concern, they need to be reported to the Title IX office as well. Concerns can also be directed confidentially to the Virginia Tech Ombuds office (https://ombuds.vt.edu); there are separate Ombuds for students/staff/faculty at different career stages (e.g., for grad students, see: https://www.graduate.ombudsman.vt.edu/community.html). Other confidential resources include the Cook Counseling Center (https://ucc.vt.edu) and Women's Center (https://www.womenscenter.vt.edu).  
 
-## Attribution
+## Attribution and Resources
 
-This document was initially drafted by Cayelan Carey and Maddy Schreiber and iteratively revised and improved by all members of the Reservoir Group. We were inspired by the Weecology's code of conduct throughout our process of crafting this document (https://www.weecology.org/lab-wiki/code-of-conduct/).
+This document was initially drafted by Cayelan Carey and Maddy Schreiber and iteratively revised and improved by all members of the Reservoir Group. We were inspired by the Weecology's code of conduct throughout our process of crafting this document (https://www.weecology.org/lab-wiki/code-of-conduct/). Resources for group members to educate themselves on how to avoid harmful language and behavior are available on the Reservoir Group shared drive (e.g., Diversity Minute slide deck).
 
 

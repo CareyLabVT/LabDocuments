@@ -20,7 +20,7 @@ We are actively working to promote a safe, inclusive, accessible, and harassment
 
 * Promoting innovative practices of open science: to enable greater participation in freshwater science, we use and develop open-source software, publish all of our data shortly after collection, and are constantly evolving our practices to ensure accessibility and reproducibility of our data and analyses
 
-* Creating educational modules: we develop, assess, and disseminate hands-on, active learning teaching materials to improve the representation of students in STEM. We use assessment data to constantly revise our teaching modules and methods to improve their accessibility for a wide range of students
+* Creating educational modules: we develop, assess, and disseminate hands-on, active learning teaching materials to enhance STEM education. We use assessment data to constantly revise our teaching modules and methods to improve their accessibility for a wide range of students
 
 
 ## Attribution

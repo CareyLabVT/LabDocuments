@@ -1,5 +1,5 @@
 # Cheatsheet for using Fluoroprobe ("Flora")
-*Last updated 21 Jul 24 by MEL and ABP*
+*Last updated 11 Sep 25 by MEL and ABP*
 
 ### Field Tips
 
@@ -13,12 +13,12 @@
 * Slow and steady orange blink  
 * Slow and steady green blink  
 * **The color of the blink indicates the charge of the battery; Flora is perfectly capable of taking data while blinking orange if her battery is low.  If you know she should be fully charged, try for green, but if after several attempts/minutes all she’ll do is blink slow and steady orange, go ahead and take the cast.  You are still likely to get perfectly good data!**  
-* If Flora’s warm-up sequence is abnormal, abort the mission by unplugging the autostart plug.  Then try again.    Sometimes it takes her a couple of tries to get going.
+* If Flora’s warm-up sequence is abnormal, abort the mission by unplugging the autostart plug. Then try again. Sometimes it takes her a couple of tries to get going.
 * *I'm thinking we may need to add additional tips here given recent quirkiness with Flora?*
 
 **3.**	**MAKE SURE YOU ARE STABLE AND THE ROPE ORGANIZER IS SECURE. THIS INSTRUMENT COSTS ~$60,000 AND WE DON’T WANT TO LOSE IT IN THE RESERVOIR!!!**
 
-**4.**	Slowly lower Flora – she takes a reading once every 3 seconds, so think about a speed of about 30 seconds/meter for a 10 cm resolution.
+**4.**	Slowly lower Flora – she takes a reading once every 3 seconds, so think about a speed of about 30 seconds/meter for a 10 cm resolution. This means a cast at FCR should take ~5 minutes!
 
 **5.**	When you hit bottom, bring her back up!
 
@@ -26,7 +26,7 @@
 
 ******
 
-#### *Downloads with Flora/ Check Chlorophyll Maximum depth (adapted from Kate Hamre's 2015 instructions)*
+#### *Downloads with Flora and Checking the Chlorophyll Maximum Depth (adapted from Kate Hamre's 2015 instructions)*
 
 **1.** **Approach Flora in a friendly but firm manner.**  Under no circumstances should she sense fear or hesitancy on your part.
 
@@ -36,11 +36,10 @@
 
 **4.** **Plug in connector cord USB (red) to lab field computer (Hindsight).** 
 
-**5.** **Log into computer** if you have never set up an account on the field computer this could take up to 20 minutes to create the account. If you are in the field have someone who already has an acocunt log in. 
+**5.** **Log into computer** if you have never set up an account on the field computer it could take up to 20 minutes to create the account. If you are in the field, have someone who already has an acocunt log in. 
 
   * Username: VT PID
   * Password: your PID password
-    
 
 **6.** **Open bbe++ software;** the laptop will ask for permission to allow the software to open/make changes --> click Yes! 
 
@@ -54,7 +53,7 @@
 
 **10.** **Navigate your data.** Use the small black arrows in your tool bar to click back and forth between different casts. Sometimes, if casts are taken very close together in time, the software will combine them into one observation. This is ok! We’ll just acknowledge that in the naming protocol.
 
-**11.** **For in the field only. Check the Chlorophyll Maxixmum in the field.*** If you are collecting phytoplankton samples from the Chlorophyll Maximum. After you have donwloaded the file, check to see where the highest concentration of chlorophyll is. Look at the "Total Concentration" column. If the reservoir is pretty mixed then you can take the sample from 1.6 m. Once you have the depth then close the computer as you will clean up the casts when you get back to the lab. 
+**11.** **(For in the field only.) If you are taking a phytoplankton sample, check the Chlorophyll Maximum Depth.*** If you are collecting phytoplankton samples from the Chlorophyll Maximum, you will use the FluoroProbe cast to find the depth of the Chlorophyll Maximum. After you have downloaded the FluoroProbe file, check to see where the highest concentration of phytoplankton is. To do this, find the greatest value in the "Total Concentration" column. If the reservoir is fairly mixed and the "Total Concentration" does not change very much across the water column, then you can take the sample from 1.6 m. Once you have identified the Chlorophyll Maximum Depth, close the computer as you will clean up the casts when you get back to the lab. 
 
 **11.** **Manually “clean up” each cast.**
 
@@ -63,7 +62,6 @@ b.	There will be a few readings at a constant, shallow depth before she starts t
 c.	Delete data by right-clicking in the selected data and selecting “Delete data”; delete only the selected data.
 d.	Continue scrolling through your data and use the depth of the cast and the timestamp to make sure you have the right reservoir/site.
 e.	Delete the upcast (everything after the deepest point of the cast). Becareful because some of the casts will be combined. Look at the time stamp to determine if there are multiple casts and do not delete them. 
-
 
 **12.** **Export the cast.**  Go to File -> export (ASCII) and export into the Raw_fluoroprobe folder on the C:\ drive (this should be the folder automatically called when you save the file) with the appropriate filename 
 
@@ -92,7 +90,7 @@ i. Now create a pull request to add the files to the main repository. (If unsure
 
 #### *Prepare for next field day*
 
-**1.** **Clean the bottom of the instrument.** Dirt likes to get stuck in the cover. In the sink squirt some water between the bottom of the instrument and the plate attached to the bottom of the instrument. Twice a year or when she is really dirty, take off the bottom plate with a screw driver and clean that out. Reattach the plates
+**1.** **Clean the bottom of the instrument.** Dirt likes to get stuck in the cover. In the sink, squirt some water between the bottom of the instrument and the plate attached to the bottom of the instrument. Twice a year or when she is really dirty, take off the bottom plate with a screw driver and clean that out. Then reattach the plates.
 
 **2.** **Check with the field crew to see if she needs to be charged.** If the top LED never turned green when she started up or the LED stopped blinking at the end of the cast, charge her. 
 
@@ -100,11 +98,11 @@ a. Attach the cable as if you were downloading files. You can also do this after
 b. Open BBE+
 c. Make sure Flora is connected (see instructions above)
 d. Click on the "Edit Parameters" button near the connected circle
-e. Find the "Begin Measurement on Start up" change this to "No"
+e. Find the "Begin Measurement on Start up" parameter and change this to "No"
 f. Save and apply the settings
 g. Close the program and shut down the computer
-h. Plug the charger into the wall outlet. Check the LED on the top of her and unplug when it is green.DO NOT LEAVE HER PLUGGED IN OVER NIGHT
-i. Once she is charged open the program and change the setting line "Begin Measurement on Start up" back to "Yes". Save settings. If you do not do this she will not record data. 
+h. Plug the charger into the wall outlet. Check the LED on the top of her and unplug when it is green. DO NOT LEAVE HER PLUGGED IN OVER NIGHT. This will cause the battery to overcharge and malfunction.
+i. Once she is charged open the program and change the setting line "Begin Measurement on Start up" back to "Yes". Save settings. If you do not do this she will not record data in the field. 
 
-**3.** **Let her air out between field days** Leave her standing up with all caps off of the top plug. Before the field day and the flat screw on plug to the top of her and then pack her up in the case. 
+**3.** **Let her air out between field days** Leave her standing up with all caps off of the top plug. Before the field day, attach the flat screw-on plug to the top of her and then pack her up in the case. 
 

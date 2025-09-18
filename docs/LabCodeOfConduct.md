@@ -20,15 +20,15 @@ Safe, inclusive, accessible, and harassment-free environments don’t just happe
 
 * Be aware that your actions can be hurtful to others or contribute to a negative environment even if you have no intent of harm. Listen when someone voices concern, reflect, and offer a genuine apology. Commit to learning and doing better.
 
-* When/if a problematic statement or action is identified, take a growth mindset. We all make mistakes; try to avoid defensiveness and conflating the mistake with reflections on you as a person. We encourage group members to educate themselves on how to avoid harmful language and behavior.
+* When/if a problematic statement or action is identified, take a growth mindset. Try to avoid defensiveness and conflating the mistake with reflections on you as a person. We encourage group members to educate themselves on how to avoid harmful language and behavior.
 
 * Harassment and sexist, racist, discriminatory, or exclusionary actions, language, imagery, jokes, and micro-aggressions are unacceptable.
 
-All group members are expected to abide by these policies on and off-campus (e.g., conferences, fieldwork, lab-related social activities), and in all online and in-person communication and interactions.
+All group members and visitors are expected to abide by these policies on and off-campus (e.g., conferences, fieldwork, lab-related social activities), and in all online and in-person communication and interactions.
 
 ## Enforcement and Reporting Mechanisms
 
-Anyone asked to stop any harassing or discriminatory behavior is expected to comply immediately. If inappropriate behavior persists, the issue will be escalated following VT policies; for current guidelines, please see the VT Office for Civil Rights Compliance and Prevention Education (https://civilrights.vt.edu/) and Inclusive VT (https://www.inclusive.vt.edu).
+Anyone asked to stop any harassing or discriminatory behavior is expected to comply immediately. If inappropriate behavior persists, the issue will be escalated following VT policies; for current guidelines, please see the VT Office for Civil Rights Compliance and Prevention Education (https://civilrights.vt.edu/).
 
 If you are being harassed, notice that someone else is being harassed, or have any concerns about potential violations, please contact Cayelan or Maddy immediately. As all faculty, staff, and graduate students are mandatory reporters, harassment violations of any kind have to be reported to the university’s Title IX office, which Cayelan/Maddy can help you navigate. The Title IX office can also refer you to other resources on campus if your concerns do not fit with their purview (e.g., the SAFE at VT program, https://safe.vt.edu). If Cayelan or Maddy is the cause of your concern, they need to be reported to the Title IX office as well. Concerns can also be directed confidentially to the Virginia Tech Ombuds office (https://ombuds.vt.edu); there are separate Ombuds for students/staff/faculty at different career stages (e.g., for grad students, see: https://www.graduate.ombudsman.vt.edu/community.html). Other confidential resources include the Cook Counseling Center (https://ucc.vt.edu) and Women's Center (https://www.womenscenter.vt.edu).  
 

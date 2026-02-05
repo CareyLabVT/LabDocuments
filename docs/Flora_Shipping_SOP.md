@@ -1,5 +1,8 @@
 # Shipping Flora for Maintenance SOP
-*Last updated 8 Feb. 2018 by MEL*
+*Last updated 5 Feb. 2026 by MEL*
+
+### HOW OFTEN SHOULD FLORA BE SENT FOR MAINTENANCE?
+Honestly, this is a judgment call. We have gone 3-4 years at a time without sending her off and things have seemed to be ok. However, it also seems like it would be a good idea to maintenance her periodically. So far, we've send Flora for maintenance in 2016/17, 2019/20, and 2024...so I guess that means evey 3-4 years or so, you might consider sending her back for a spa day.
 
 ### BEFORE THE DAY OF SHIPPING:  
 

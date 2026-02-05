@@ -44,3 +44,8 @@
 **8.**	Drop Flora off in the Biological Sciences office in the Package Room (behind desk in main office area).
 
 **9.**	Email Tim, Cayelan, and Bobbie to let them know Flora is boxed, when she is being picked up, and when she should arrive to PP systems. 
+
+### POSSIBLE CHECKS WHEN INSTRUMENT RETURNS:
+[fill this in]
+
+**1.** 

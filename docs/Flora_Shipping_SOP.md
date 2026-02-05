@@ -48,7 +48,5 @@ Honestly, this is a judgment call. We have gone 3-4 years at a time without send
 
 **9.**	Email Tim, Cayelan, and Bobbie to let them know Flora is boxed, when she is being picked up, and when she should arrive to PP systems. 
 
-### POSSIBLE CHECKS WHEN INSTRUMENT RETURNS:
-[fill this in]
-
-**1.** 
+### POST-CALIBRATION CHECKS WHEN INSTRUMENT RETURNS:
+See the FluoroProbe calibration check SOP_02JUN20.docx file in this repository (in docs/ folder) for a detailed guide on possible post-calibration checks.

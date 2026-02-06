@@ -1,7 +1,11 @@
-## THOUGHTS ON SAMPLING WITH FLORA
-[fill this in]
-1. mooring
-2. benchtop work
+## THOUGHTS ON SELECT TOPICS RELATED TO THE FLUOROPROBE (FP)
+#### Author: Mary Lofton
+#### Date: 06FEB26
+
+This document is based on notes and conversation between Mary Lofton and Adrienne Breef-Pilz on 05FEB26. The goal is to share potentially helpful institutional knowledge related to the FluoroProbe with current and future members of the Carey Lab. These are just my opinions; please feel free to take or leave as it's helpful to you!
+
+**1. Mooring the FluoroProbe**: I have not done this often, mostly because Cayelan worries (reasonably) about losing the instrument to the bottom of the lake. I did moor the FluoroProbe once to the catwalk at FCR for a few hours in the afternoon in Aug. 2017 during a solar eclipse. It worked fine and was pretty informative because, to my memory, the reported biomass on the instrument dropped by about half during the course of the solar eclipse and then recovered pretty quickly afterwards - a helpful reminder that fluorescence data is subject to quenching and other short-lived dynamics! To my knowledge there is no reason other than risking loss of the instrument to the bottom of the reservoir (ha!) that you couldn't moor it for timeseries data at a specific depth.
+**2. Benchtop work**: This is also totally possible, but you will need to follow instructions in the FluoroProbe manual in order to switch the instrument from field mode to benchtop mode. There is a black plastic benchtop stand and clear plastic cuvette that can be used with the instrument in benchtop mode. You'll have to ask the current Carey Lab manager where these are located. Most commonly, I have used the FP in benchtop mode to check its calibration post-maintenance at bbe moldaenke in Germany. There is a detailed guide to my recommendations for these calibration checks in the CareyLabVT/LabDocuments/docs/FluoroProbe calibration check SOP_02JUN20.docx file. In theory you could also use the FP to take measurements for a lab or benchtop experiment with algal cultures if the type of data the FP collects would be useful for your research question. I have not done this.
 3. recreating proprietary algorithm (PLSR)
 4. comparing to other sensors (EXO chla is primarily green algae; might be worth comparing cyanos to EXO phycocyanin)
 5. always going to measure higher than everything else because she is summing across multiple pigments whereas all our other sensors just detect one

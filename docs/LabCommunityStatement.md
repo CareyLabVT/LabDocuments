@@ -14,10 +14,12 @@ We are actively working to promote a safe, inclusive, accessible, and harassment
 
 * Developing safe, inclusive, accessible, and harassment-free frameworks for: our community interactions (via our code of conduct); recruiting and mentoring students; and safely conducting fieldwork
 
-* Conducting translational science: we work closely with managers and community members to co-develop scientific studies and conduct research to ensure that our findings are usable and accessible to the communities we live and work in
+* Conducting translational science: we work closely with managers and community members to co-develop scientific studies and conduct research to ensure that our findings are ethical, usable, and accessible for the communities we live and work in
 
 * Communicating our science: we partner with educators, outreach coordinators, and managers to translate our research, solicit feedback, and ensure that our findings are broadly shared and accessible to the public
 
+* Practicing ethical science: scientific integrity underpins all of our work, through e.g., transparent data collection and analysis; appropriately handling conflicts of interest; proper attribution for intellectual contributions; responsible human subjects research; careful and judicious stewardship of grant funds; and AI use following our group guidelines
+  
 * Promoting innovative practices of open science: to enable greater participation in freshwater science, we use and develop open-source software, publish all of our data shortly after collection, and are constantly evolving our practices to ensure accessibility and reproducibility of our data and analyses
 
 * Creating educational modules: we develop, assess, and disseminate hands-on, active learning teaching materials to enhance STEM education. We use assessment data to constantly revise our teaching modules and methods to improve their accessibility for a wide range of students
